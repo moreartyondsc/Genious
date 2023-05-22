@@ -22,7 +22,7 @@ ___
 # Comment faire évoluer le projet:
 Pour faire évoluer le projet, il suffit de poster des bout de code,
 
-Pour le python, en cogs dans le répertoire
+Pour le python, en cogs dans le répertoire [Cogs](Genious/cogs)
 
 ___
 # Se contacter
