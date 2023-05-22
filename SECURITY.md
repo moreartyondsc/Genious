@@ -8,13 +8,35 @@ verssion de python:
 | ------- | ------------------ |
 | 3.9.4   | ✅                 |
 | 3.10.x  | ✅                 |
-| 4.0.x   | :x:                |
-| < 4.0   | :x:                |
+| - 3.9.4 | :x:                |
 
-## Reporting a Vulnerability
+## Signaler un problème:
 
-Use this section to tell people how to report a vulnerability.
+Pour signaler un problème actuellement, veuillez envoyer un mail a l'adresse: odevs.contact@gmail.com
+Adoptez cette forme:
+```
+Objet: Bug Github
+Dans le contenu, donnez: 
+1. Le nom du fichier
+2. Le lien du fichier
+3. L'érreur
+4. Le membre qui en est responcable
+```
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## Altercation avec un membre:
+En cas d'altercation avec un membre, veuillez envoyer un mail a l'adresse: odevs.contact@gmail.com
+Adoptez cette forme:
+```
+Objet: Conflit avec un membre
+Dans le contenu, donnez: 
+1. Le pseudo du membre
+2. Décrivez le problème
+```
+
+## Une question:
+Si vous avez une question, veuillez envoyer un mail a l'adresse: odevs.contact@gmail.com
+Adoptez cette forme:
+```
+Objet: Question
+Dans le contenu, décrivez votre question
+```
