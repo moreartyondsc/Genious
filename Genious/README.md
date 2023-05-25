@@ -14,7 +14,12 @@ Pour ce faire, c'est assez simple :
     git clone https://github.com/moreartyondsc/Genious.git
     ```
 
-> 📌 Aller dans le dossier Genious :
+> 📌 Aller dans le dossier du dépot github :
++ ```
+    cd Genious
+    ```
+    
+ > 📌 Aller dans le dossier du bot :
 + ```
     cd Genious
     ```
