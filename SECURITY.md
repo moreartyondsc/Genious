@@ -2,7 +2,7 @@
 
 ## Versions de Python
 
-verssion de python:
+version de python:
 
 | Version | Supportées :       |
 | ------- | ------------------ |
