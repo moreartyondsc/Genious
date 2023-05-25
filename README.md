@@ -26,4 +26,5 @@ Pour le python, en cogs dans le répertoire [Cogs](Genious/cogs)
 
 ___
 # Se contacter
-En l'êtat actuel du projet, aucun moyen de communiquer entre les membres a été mis en place, en revanche, un discord est en train d'être créer petit a petit.
+[mail](odevs.contact@gmail.com)
+[discord](https://discord.gg/wBcqA6tZzM)
