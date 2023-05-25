@@ -27,7 +27,7 @@
     "fs": "^0.0.1-security",
     "giphy-api": "^2.0.2",
     "hastebin-gen": "^2.0.5",
-    "moment": "^2.29.2",
+    "moment": ">=2.29.2",
     "moment-duration": "^0.0.6",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^6.1.4",
