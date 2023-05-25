@@ -25,7 +25,7 @@ Pour ce faire, c'est assez simple :
     ```
 
 > 📌 Installer discord.js
- ```
++ ```
     npm install discord.js
     ```
 
