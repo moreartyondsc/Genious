@@ -30,7 +30,7 @@
     "moment": ">=2.29.2",
     "moment-duration": "^0.0.6",
     "moment-duration-format": "^2.3.2",
-    "mongoose": "^6.1.4",
+    "mongoose": "^6.11.3",
     "ms": "^3.0.0-canary.1",
     "nuggies": "^3.1.3",
     "opusscript": "^0.0.8",
